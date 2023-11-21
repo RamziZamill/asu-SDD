@@ -40,5 +40,11 @@ _This text is italic_
   "age": 21
 }
 ```
-
 > This is a note if you want to explain something
+
+## Task List  
+- [ ] Task 1
+- [x] Task 2
+- [ ] Task 3
+  
+> If you want to check something for this task, you should put the letter *x* inside the brackets. 
